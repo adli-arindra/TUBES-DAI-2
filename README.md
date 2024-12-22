@@ -1,5 +1,3 @@
-=== README ===
-
 # K-Nearest Neighbors (KNN) Model
 
 ## Deskripsi Proyek
